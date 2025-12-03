@@ -1,13 +1,3 @@
-# Hi, I'm Nay Thu Naing 👋
-
-![header](https://your-banner-link)
-
-![NayThunaing GitHub stats](https://github-readme-stats.vercel.app/api?username=naythunaing-mm&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=naythunaing-mm&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naythunaing-mm&layout=compact&theme=tokyonight)
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ntn.mm) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1A6DRLNT2s/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naythunaing.mm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nay-thu-naing-b73902356?utm_source=share_via&utm_content=profile&utm_medium=member_ios) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naythunaing.mm@gmail.com) 
